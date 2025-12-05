@@ -14,7 +14,8 @@ Upload a leaf image and instantly receive:
 ## 📺 Live Demo (GIF)
 
 <p align="center">
-  <img src="assets/plant_disease_demo.gif" alt="Plant Disease Detection Demo" width="700">
+  <img src="assets
+/Streamlit - Google Chrome 2025-12-05 11-29-32.gif" alt="Plant Disease Detection Demo" width="700">
 </p>
 
 ## ✨ Features
