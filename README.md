@@ -17,6 +17,11 @@ Upload a leaf image and instantly receive:
   <img src="assets/plant_disease_gif.gif" width="700">
 </p>
 
+🌐 Live Streamlit App
+
+🚀 Try the Plant Disease Detection App here:
+👉 https://plant-pest-disease-detection.streamlit.app/
+
 ## ✨ Features
 
 ### 🤖 Deep Learning Model
