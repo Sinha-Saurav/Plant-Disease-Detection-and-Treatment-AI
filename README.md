@@ -198,7 +198,7 @@ Streamlit UI will open in the browser.
 | Model Training | PyTorch                                      |
 | Backend        | FastAPI                                      |
 | Frontend       | Streamlit                                    |
-| Deployment     | Uvicorn / Streamlit Cloud                    |
+| Deployment     | Streamlit Cloud                    |
 | Dataset        | Custom Plant Disease Dataset + Treatment CSV |
 
 ---
