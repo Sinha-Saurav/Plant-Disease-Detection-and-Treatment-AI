@@ -1,6 +1,8 @@
-# 🌿 Plant Disease Detection (Deep Learning + FastAPI + Streamlit)
+# 🌿 Plant-Disease-Detection-and-Treatment-AI
 
-An end-to-end **Plant Disease Detection System** using **PyTorch**, **ResNet-18**, **FastAPI REST API**, and **Streamlit UI**.
+(Deep Learning + FastAPI + Streamlit)
+
+An **Plant Disease Detection and Treatment System** using **PyTorch**, **ResNet-18**, **FastAPI REST API**, and **Streamlit UI**.
 Upload a leaf image and instantly receive:
 
 ✔ Disease name
